@@ -1,2 +1,6 @@
 # VST.Studio
-## DESCRIPTION ##
+
+A virtual studio technology host and vst plugin rack.
+
+Recruiting Developers.
+
