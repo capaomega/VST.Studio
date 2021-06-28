@@ -2,5 +2,5 @@
 
 A virtual studio technology host and vst plugin rack.
 
-Recruiting Developers.
+Recruiting Developers at Elicit.Dev.
 
